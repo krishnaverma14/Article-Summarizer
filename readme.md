@@ -31,19 +31,6 @@ Whether you're a student, researcher, or just want the TL;DR — this app makes 
 ✅ RTK Query API — Efficient, conditional API requests with Redux Toolkit  
 ✅ Scalable Architecture — Designed for maintainability and reusability  
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaverma14&show_icons=true&theme=tokyonight)
-
----
-
-## 🏆 Top Contributed Repo
-
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaverma14&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Socials
 
