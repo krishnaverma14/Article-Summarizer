@@ -2,14 +2,6 @@
 
 Briefly makes reading easier by using AI to summarize lengthy content into clear, concise summaries.
 
-🔗 **Live Demo:** https://reliable-sundae-9184ff.netlify.app  
-
----
-
-![App Screenshot](assets/screenshot.png)
-
----
-
 ## 🤖 Introduction
 
 Summarize any kind of article with just one click using the powerful OpenAI model.  
